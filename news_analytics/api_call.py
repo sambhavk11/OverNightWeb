@@ -18,7 +18,7 @@ def getNews(val):
     #title = filter_news(res.json())
 
     #temporary reading
-    with open("dummy_1.json") as f:
+    with open("dummy.json") as f:
         res = json.load(f)
     # res = json.dumps(rest, indent=4, sort_keys=True)
     results = filter_news(res)
