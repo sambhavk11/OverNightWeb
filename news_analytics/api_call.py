@@ -12,13 +12,13 @@ def getNews(val):
       "count": 25,
       "outputMode": "json"
     }
-    # res = requests.get(url,params=payload)
-    # with open("dummy.json", 'w') as f:
+    #res = requests.get(url,params=payload)
+    #with open("dummy.json", 'w') as f:
     #     f.write(res.text)
-    # title = filter_news(res.json())
+    #title = filter_news(res.json())
 
-    # temporary reading
-    with open("dummy.json") as f:
+    #temporary reading
+    with open("dummy_1.json") as f:
         res = json.load(f)
     # res = json.dumps(rest, indent=4, sort_keys=True)
     results = filter_news(res)
@@ -33,4 +33,4 @@ def filter_news(res):
     results = res.get("result").get("docs")
     return results
 
-getNews("IBM")
+getNews("Aston Martin")
