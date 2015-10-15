@@ -33,4 +33,4 @@ def filter_news(res):
     results = res.get("result").get("docs")
     return results
 
-getNews("Aston Martin")
+#getNews("Aston Martin")
