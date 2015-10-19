@@ -9,6 +9,7 @@ def getNews(val):
     with open("dummy.json") as f:
         res = json.load(f)
     results = filter_news(res)
+    print results
     return results
 
 def filter_news(res):

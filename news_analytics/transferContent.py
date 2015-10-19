@@ -11,6 +11,29 @@ def transContent(search_key):
     elif search_key=='Melia Bali':
         fname='JSON/MeliaBali.json'
         print fname
+    elif search_key=='Amari Boulevard':
+        fname='JSON/AmariBoulevard.json'
+        print fname
+    elif search_key=='Fairmont':
+        fname='JSON/Fairmont.json'
+        print fname
+    elif search_key=='Fraser Suites':
+        fname='JSON/FraserSuites.json'
+        print fname
+    elif search_key=='Grand Hyatt':
+        fname='JSON/GrandHyatt.json'
+        print fname
+    elif search_key=='Gran Melia':
+        fname='JSON/GranMelia.json'
+        print fname
+    elif search_key=='Novotel':
+        fname='JSON/Novotel.json'
+        print fname
+    elif search_key=='Robertson Quay':
+        fname='JSON/RobertsonQuay.json'
+        print fname
+
+
     else:
         fname='dummy.json'
         print("No match found")
