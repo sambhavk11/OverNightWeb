@@ -1,0 +1,723 @@
+{
+  "request": {
+    "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+    "api": "product",
+    "version": 3,
+    "options": [
+      "_=1444113748809",
+      "callback=jQuery172036436051363125443_1444113748783",
+      "format=jsonp"
+    ]
+  },
+  "objects": [
+    {
+      "text": "Experience World-class Service at The Oberoi, Bali\nThe Oberoi, Bali stretches over 15 acres of tropical gardens and offers luxurious beachside units filled with traditional Balinese architecture and free Wi-Fi. Its outdoor pool overlooks the ocean.\nLocated along popular Seminyak Beach, The Oberoi, Bali is just 0.3 miles from Ku De Ta and The Seminyak Square Shopping Mall. Ngurah Rai International Airport is 6 miles from the resort.\nDecorated with stylish teak wood furnishings, rooms come with a satellite TV, DVD player and iPod sound dock. The sunken bathtub in the private bathroom opens out to a private grounds.\nOverlooking a pond, Oberoi Spa has open-air massage pavilions and a variety of beauty treatments. The resort also has a tour desk and a fitness center.\nFrangipani Cafe serves a daily breakfast in an al fresco setting, while Kura Kura serves Indonesian, Asian and Continental cuisines. Themed buffet dinners and scheduled live performances are featured at The Amphitheater. Cocktails, drinks and snacks can be enjoyed at Kayu Bar, which features views of the Indian Ocean.",
+      "title": "The Oberoi, Bali",
+      "discussion": {
+        "tags": [
+          {
+            "count": 7,
+            "prevalence": 0.09,
+            "score": 0.09,
+            "label": "Hotel",
+            "uri": "http://dbpedia.org/resource/Hotel"
+          },
+          {
+            "count": 5,
+            "prevalence": 0.07,
+            "score": 0.07,
+            "label": "Leisure",
+            "uri": "http://dbpedia.org/resource/Leisure"
+          },
+          {
+            "count": 4,
+            "prevalence": 0.05,
+            "score": 0.05,
+            "label": "Night",
+            "uri": "http://dbpedia.org/resource/Night"
+          },
+          {
+            "count": 3,
+            "prevalence": 0.04,
+            "score": 0.04,
+            "label": "Beach",
+            "uri": "http://dbpedia.org/resource/Beach"
+          },
+          {
+            "count": 3,
+            "prevalence": 0.04,
+            "score": 0.04,
+            "label": "Attention",
+            "uri": "http://dbpedia.org/resource/Attention"
+          }
+        ],
+        "title": "The Oberoi, Bali",
+        "numPosts": 15,
+        "diffbotUri": "discussion|3|1430600108",
+        "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+        "posts": [
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.48,
+                "label": "Four-poster bed",
+                "uri": "http://dbpedia.org/resource/Four-poster_bed"
+              },
+              {
+                "count": 1,
+                "score": 0.41,
+                "label": "Mattress",
+                "uri": "http://dbpedia.org/resource/Mattress"
+              },
+              {
+                "count": 2,
+                "score": 0.41,
+                "label": "Sleep",
+                "uri": "http://dbpedia.org/resource/Sleep"
+              },
+              {
+                "count": 1,
+                "score": 0.34,
+                "label": "London",
+                "uri": "http://dbpedia.org/resource/London"
+              },
+              {
+                "count": 1,
+                "score": 0.32,
+                "label": "Bustle",
+                "uri": "http://dbpedia.org/resource/Bustle"
+              }
+            ],
+            "id": 0,
+            "author": "Jaz",
+            "text": "There wasn't a bad experience to be had. If I had to pick a niggling point, it would be that the bed we slept on, had a beautiful wood surround around the mattress as well as the fact it was a four poster bed, however, even though there was a step to assist us to get onto the bed, I found it a little difficult to get onto and off the bed without assistance from my husband. The actual bed was very comfortable and we loved our undisturbed sleep with the ocean sounds in the background, it was just the getting on and off that was a problem for me.\nthe whole experience was wonderful, peaceful, relaxing and a world away from the hustle and bustle of London. We went to celebrate our 33rd anniversary and were not disappointed. The Oberoi even made us a beautiful chocolate cake (and I do not like chocolate, but this cake was amazing) along with the romantic candlelit dinner on our private beach. We could easily have stayed for another two weeks. Thank you John and the staff at Oberoi for an unforgettable, much needed holiday, and thank you our fantastic children for covering for us while we were away. We will definitely come again.",
+            "diffbotUri": "post|3|-495751866",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>There wasn't a &quot;bad&quot; experience to be had. If I had to pick a niggling point, it would be that the bed we slept on, had a beautiful wood surround around the mattress as well as the fact it was a four poster bed, however, even though there was a step to assist us to get onto the bed, I found it a little difficult to get onto and off the bed without assistance from my husband. The actual bed was very comfortable and we loved our undisturbed sleep with the ocean sounds in the background, it was just the getting on and off that was a problem for me.</p>\n<p>the whole experience was wonderful, peaceful, relaxing and a world away from the hustle and bustle of London. We went to celebrate our 33rd anniversary and were not disappointed. The Oberoi even made us a beautiful chocolate cake (and I do not like chocolate, but this cake was amazing) along with the romantic candlelit dinner on our private beach. We could easily have stayed for another two weeks. Thank you John and the staff at Oberoi for an unforgettable, much needed holiday, and thank you our fantastic children for covering for us while we were away. We will definitely come again.</p>",
+            "humanLanguage": "en",
+            "date": "Fri, 02 Oct 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.09,
+                "label": "Leisure",
+                "uri": "http://dbpedia.org/resource/Leisure"
+              },
+              {
+                "count": 1,
+                "score": 0.02,
+                "label": "Psychedelic experience",
+                "uri": "http://dbpedia.org/resource/Psychedelic_experience"
+              },
+              {
+                "count": 1,
+                "score": 0.02,
+                "label": "Night",
+                "uri": "http://dbpedia.org/resource/Night"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Twin",
+                "uri": "http://dbpedia.org/resource/Twin"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Double (association football)",
+                "uri": "http://dbpedia.org/resource/Double_(association_football)"
+              }
+            ],
+            "id": 1,
+            "author": "Chinthaka",
+            "text": "10  Exceptional \n  Leisure trip  Couple  Lanai Room Double or Twin with Garden View  Stayed 5 nights  Submitted from a mobile device \n None!",
+            "diffbotUri": "post|3|-1253882629",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>10</p>\n<p>Exceptional</p>\n<ul> <li> Leisure trip</li> <li> Couple</li> <li> Lanai Room Double or Twin with Garden View</li> <li> Stayed 5 nights</li> <li> Submitted from a mobile device</li> </ul>\n<p>None!</p>",
+            "humanLanguage": "en",
+            "date": "Sun, 27 Sep 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 2,
+                "score": 0.38,
+                "label": "Hotel",
+                "uri": "http://dbpedia.org/resource/Hotel"
+              },
+              {
+                "count": 1,
+                "score": 0.36,
+                "label": "Dry season",
+                "uri": "http://dbpedia.org/resource/Dry_season"
+              },
+              {
+                "count": 1,
+                "score": 0.34,
+                "label": "Water feature",
+                "uri": "http://dbpedia.org/resource/Water_feature"
+              },
+              {
+                "count": 1,
+                "score": 0.29,
+                "label": "Kura River",
+                "uri": "http://dbpedia.org/resource/Kura_River"
+              },
+              {
+                "count": 1,
+                "score": 0.18,
+                "label": "Circle",
+                "uri": "http://dbpedia.org/resource/Circle"
+              }
+            ],
+            "id": 2,
+            "author": "Philip Australia",
+            "text": "I was a little disappointed in the gardens, considering their fame in horticultural circles. Perhaps the dry season had an effect. Not as lush as some hotels in Bali.\nA classic hotel in a great location with marvellous views of the beach. Attractive water features. The gym is excellent with a lovely garden view. Food at Kura Kura was very good.",
+            "diffbotUri": "post|3|-332485830",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>I was a little disappointed in the gardens, considering their fame in horticultural circles. Perhaps the dry season had an effect. Not as lush as some hotels in Bali.</p>\n<p>A classic hotel in a great location with marvellous views of the beach. Attractive water features. The gym is excellent with a lovely garden view. Food at Kura Kura was very good.</p>",
+            "humanLanguage": "en",
+            "date": "Mon, 21 Sep 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.19,
+                "label": "Door",
+                "uri": "http://dbpedia.org/resource/Door"
+              },
+              {
+                "count": 1,
+                "score": 0.06,
+                "label": "Night",
+                "uri": "http://dbpedia.org/resource/Night"
+              },
+              {
+                "count": 1,
+                "score": 0.05,
+                "label": "Surakarta",
+                "uri": "http://dbpedia.org/resource/Surakarta"
+              },
+              {
+                "count": 1,
+                "score": 0.03,
+                "label": "Villa",
+                "uri": "http://dbpedia.org/resource/Villa"
+              },
+              {
+                "count": 1,
+                "score": 0.02,
+                "label": "Leisure",
+                "uri": "http://dbpedia.org/resource/Leisure"
+              }
+            ],
+            "id": 3,
+            "author": "Thamer",
+            "text": "6.3  Pleasant \n  Leisure trip  Solo traveler  Luxury Villa with Private Pool and Garden View  Stayed 8 nights \n not quiet from 5 pm until 1:30 am there is a club next door ku de ta ask for that befor booking if you looking for a quiet place and relaxitaion",
+            "diffbotUri": "post|3|1996642079",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>6.3</p>\n<p>Pleasant</p>\n<ul> <li> Leisure trip</li> <li> Solo traveler</li> <li> Luxury Villa with Private Pool and Garden View</li> <li> Stayed 8 nights</li> </ul>\n<p>not quiet from 5 pm until 1:30 am there is a club next door ku de ta ask for that befor booking if you looking for a quiet place and relaxitaion</p>",
+            "humanLanguage": "en",
+            "date": "Sun, 20 Sep 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.23,
+                "label": "Ocean View (Norfolk)",
+                "uri": "http://dbpedia.org/resource/Ocean_View_(Norfolk)"
+              },
+              {
+                "count": 1,
+                "score": 0.06,
+                "label": "Leisure",
+                "uri": "http://dbpedia.org/resource/Leisure"
+              },
+              {
+                "count": 1,
+                "score": 0.01,
+                "label": "Psychedelic experience",
+                "uri": "http://dbpedia.org/resource/Psychedelic_experience"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Night",
+                "uri": "http://dbpedia.org/resource/Night"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Twin",
+                "uri": "http://dbpedia.org/resource/Twin"
+              }
+            ],
+            "id": 4,
+            "author": "Ashley Australia",
+            "text": "10  Exceptional \n  Leisure trip  Couple  Lanai Room Double or Twin with Partial Ocean View  Stayed 2 nights  Submitted from a mobile device \n Everything",
+            "diffbotUri": "post|3|-296937629",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>10</p>\n<p>Exceptional</p>\n<ul> <li> Leisure trip</li> <li> Couple</li> <li> Lanai Room Double or Twin with Partial Ocean View</li> <li> Stayed 2 nights</li> <li> Submitted from a mobile device</li> </ul>\n<p>Everything</p>",
+            "humanLanguage": "en",
+            "date": "Sun, 13 Sep 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.34,
+                "label": "Mobile device",
+                "uri": "http://dbpedia.org/resource/Mobile_device"
+              },
+              {
+                "count": 1,
+                "score": 0.08,
+                "label": "Leisure",
+                "uri": "http://dbpedia.org/resource/Leisure"
+              },
+              {
+                "count": 1,
+                "score": 0.06,
+                "label": "Night",
+                "uri": "http://dbpedia.org/resource/Night"
+              },
+              {
+                "count": 1,
+                "score": 0.01,
+                "label": "Villa",
+                "uri": "http://dbpedia.org/resource/Villa"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Psychedelic experience",
+                "uri": "http://dbpedia.org/resource/Psychedelic_experience"
+              }
+            ],
+            "id": 5,
+            "author": "Marc",
+            "text": "10  Exceptional \n  Leisure trip  Couple  Luxury Villa with Private Pool and Partial Sea View  Stayed 6 nights  Submitted from a mobile device \nThere is nothing I didn't like.\nThe facilities were fantastically maintained. Every member of the staff went out of their way to make us feel special and welcome and accommodate any request.",
+            "diffbotUri": "post|3|-1101602365",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>10</p>\n<p>Exceptional</p>\n<ul> <li> Leisure trip</li> <li> Couple</li> <li> Luxury Villa with Private Pool and Partial Sea View</li> <li> Stayed 6 nights</li> <li> Submitted from a mobile device</li> </ul>\n<p>There is nothing I didn't like.</p>\n<p>The facilities were fantastically maintained. Every member of the staff went out of their way to make us feel special and welcome and accommodate any request.</p>",
+            "humanLanguage": "en",
+            "date": "Mon, 31 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Beautiful (Christina Aguilera song)",
+                "uri": "http://dbpedia.org/resource/Beautiful_(Christina_Aguilera_song)"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Community service",
+                "uri": "http://dbpedia.org/resource/Community_service"
+              },
+              {
+                "count": 2,
+                "score": 0,
+                "label": "Great (1975 film)",
+                "uri": "http://dbpedia.org/resource/Great_(1975_film)"
+              }
+            ],
+            "id": 6,
+            "author": "Nataliya",
+            "text": "Great staff Beautiful place Clean Great service",
+            "diffbotUri": "post|3|1781141029",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>Great staff Beautiful place Clean Great service</p>",
+            "humanLanguage": "ro",
+            "date": "Sun, 30 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.32,
+                "label": "Oasis",
+                "uri": "http://dbpedia.org/resource/Oasis"
+              },
+              {
+                "count": 1,
+                "score": 0.28,
+                "label": "Town",
+                "uri": "http://dbpedia.org/resource/Town"
+              },
+              {
+                "count": 1,
+                "score": 0.25,
+                "label": "Stone sculpture",
+                "uri": "http://dbpedia.org/resource/Stone_sculpture"
+              },
+              {
+                "count": 1,
+                "score": 0.22,
+                "label": "Resort",
+                "uri": "http://dbpedia.org/resource/Resort"
+              },
+              {
+                "count": 1,
+                "score": 0.22,
+                "label": "Seminyak",
+                "uri": "http://dbpedia.org/resource/Seminyak"
+              }
+            ],
+            "id": 7,
+            "author": "Hadil",
+            "text": "We loved this Oberoi, but it might be too quiet/ not enough activities for a younger couple or young children. If you prefer slick modern interiors and infinity pools, this is not the place for you\nBeautiful and charming resort, cottages scattered in the gardens blend in with the landscape, but with all modern comforts inside, beds with choice of pillows, sunken bath and shower opening onto a small courtyard garden with stone sculptures. excellent food and service. stone pool overlooking the beach. a tranquil oasis in the busy town of Seminyak, perfect location for exploring this part of Bali.",
+            "diffbotUri": "post|3|1389342082",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>We loved this Oberoi, but it might be too quiet/ not enough activities for a younger couple or young children. If you prefer slick modern interiors and infinity pools, this is not the place for you</p>\n<p>Beautiful and charming resort, cottages scattered in the gardens blend in with the landscape, but with all modern comforts inside, beds with choice of pillows, sunken bath and shower opening onto a small courtyard garden with stone sculptures. excellent food and service. stone pool overlooking the beach. a tranquil oasis in the busy town of Seminyak, perfect location for exploring this part of Bali.</p>",
+            "humanLanguage": "en",
+            "date": "Sat, 29 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.26,
+                "label": "Attention",
+                "uri": "http://dbpedia.org/resource/Attention"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Complexity",
+                "uri": "http://dbpedia.org/resource/Complexity"
+              }
+            ],
+            "id": 8,
+            "author": "Fiona",
+            "text": "attention to detail is second to none",
+            "diffbotUri": "post|3|-705288068",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>attention to detail is second to none</p>",
+            "humanLanguage": "it",
+            "date": "Tue, 25 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.23,
+                "label": "Beach",
+                "uri": "http://dbpedia.org/resource/Beach"
+              },
+              {
+                "count": 1,
+                "score": 0.19,
+                "label": "Nature",
+                "uri": "http://dbpedia.org/resource/Nature"
+              },
+              {
+                "count": 1,
+                "score": 0.07,
+                "label": "Surfing",
+                "uri": "http://dbpedia.org/resource/Surfing"
+              },
+              {
+                "count": 1,
+                "score": 0.03,
+                "label": "Superficial charm",
+                "uri": "http://dbpedia.org/resource/Superficial_charm"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Melody",
+                "uri": "http://dbpedia.org/resource/Melody"
+              }
+            ],
+            "id": 9,
+            "author": "John",
+            "text": "Excellent location on beach with good surf. Staff were charming and very helpful. Lovely facilities in tune with nature.",
+            "diffbotUri": "post|3|-2001466597",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>Excellent location on beach with good surf. Staff were charming and very helpful. Lovely facilities in tune with nature.</p>",
+            "humanLanguage": "en",
+            "date": "Tue, 25 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.26,
+                "label": "Idyll",
+                "uri": "http://dbpedia.org/resource/Idyll"
+              },
+              {
+                "count": 1,
+                "score": 0.22,
+                "label": "Attention",
+                "uri": "http://dbpedia.org/resource/Attention"
+              },
+              {
+                "count": 1,
+                "score": 0.16,
+                "label": "Experience",
+                "uri": "http://dbpedia.org/resource/Experience"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Texas Education Agency accountability ratings system",
+                "uri": "http://dbpedia.org/resource/Texas_Education_Agency_accountability_ratings_system"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Service (economics)",
+                "uri": "http://dbpedia.org/resource/Service_(economics)"
+              }
+            ],
+            "id": 10,
+            "author": "Paul",
+            "text": "The setting was idyllic & the attention to detail and service from staff was exemplary. An unforgettable experience.",
+            "diffbotUri": "post|3|-355508518",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>The setting was idyllic &amp; the attention to detail and service from staff was exemplary. An unforgettable experience.</p>",
+            "humanLanguage": "en",
+            "date": "Sun, 16 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.29,
+                "label": "Hotel",
+                "uri": "http://dbpedia.org/resource/Hotel"
+              },
+              {
+                "count": 1,
+                "score": 0.25,
+                "label": "Bali",
+                "uri": "http://dbpedia.org/resource/Bali"
+              },
+              {
+                "count": 1,
+                "score": 0.17,
+                "label": "Attention",
+                "uri": "http://dbpedia.org/resource/Attention"
+              },
+              {
+                "count": 1,
+                "score": 0.12,
+                "label": "Time",
+                "uri": "http://dbpedia.org/resource/Time"
+              },
+              {
+                "count": 1,
+                "score": 0.07,
+                "label": "Leisure",
+                "uri": "http://dbpedia.org/resource/Leisure"
+              }
+            ],
+            "id": 11,
+            "author": "Anthony",
+            "text": "10  Exceptional \n  Leisure trip  Couple  Lanai Room Double or Twin with Garden View  Stayed 3 nights  Submitted from a mobile device \nNothing to dislike. The hotel really is faultless.\nThe service, standards and attention to detail are exceptional. This is simply the the best and I will have no hesitation in staying again next time I am in Bali.",
+            "diffbotUri": "post|3|-1579442260",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>10</p>\n<p>Exceptional</p>\n<ul> <li> Leisure trip</li> <li> Couple</li> <li> Lanai Room Double or Twin with Garden View</li> <li> Stayed 3 nights</li> <li> Submitted from a mobile device</li> </ul>\n<p>Nothing to dislike. The hotel really is faultless.</p>\n<p>The service, standards and attention to detail are exceptional. This is simply the the best and I will have no hesitation in staying again next time I am in Bali.</p>",
+            "humanLanguage": "en",
+            "date": "Sat, 15 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.11,
+                "label": "Beach",
+                "uri": "http://dbpedia.org/resource/Beach"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Location (geography)",
+                "uri": "http://dbpedia.org/resource/Location_(geography)"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Employment",
+                "uri": "http://dbpedia.org/resource/Employment"
+              },
+              {
+                "count": 1,
+                "score": 0,
+                "label": "Spaceport",
+                "uri": "http://dbpedia.org/resource/Spaceport"
+              },
+              {
+                "count": 2,
+                "score": 0,
+                "label": "Beautiful (Christina Aguilera song)",
+                "uri": "http://dbpedia.org/resource/Beautiful_(Christina_Aguilera_song)"
+              }
+            ],
+            "id": 12,
+            "author": "John",
+            "text": "Beautiful location with good surf beach. Beautiful facility. Very helpful staff.",
+            "diffbotUri": "post|3|-1471509461",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>Beautiful location with good surf beach. Beautiful facility. Very helpful staff.</p>",
+            "humanLanguage": "en",
+            "date": "Wed, 05 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 1,
+                "score": 0.37,
+                "label": "Natural environment",
+                "uri": "http://dbpedia.org/resource/Natural_environment"
+              },
+              {
+                "count": 1,
+                "score": 0.29,
+                "label": "Hotel",
+                "uri": "http://dbpedia.org/resource/Hotel"
+              },
+              {
+                "count": 1,
+                "score": 0.25,
+                "label": "Beach",
+                "uri": "http://dbpedia.org/resource/Beach"
+              },
+              {
+                "count": 1,
+                "score": 0.18,
+                "label": "Ocean",
+                "uri": "http://dbpedia.org/resource/Ocean"
+              },
+              {
+                "count": 1,
+                "score": 0.18,
+                "label": "Experience",
+                "uri": "http://dbpedia.org/resource/Experience"
+              }
+            ],
+            "id": 13,
+            "author": "Anonymous",
+            "text": "10  Exceptional \n  Leisure trip  Solo traveler  Lanai Room Double or Twin with Garden View  Stayed 7 nights  Submitted from a mobile device \nNothing at all. An exquisite place\nThe tranquility, ambience, architecture and design blending with the natural environment of tropical forest, beach and the ocean. It is visually stunning - aroiund every corner something different. It's not just a hotel it's an experience",
+            "diffbotUri": "post|3|44097953",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>10</p>\n<p>Exceptional</p>\n<ul> <li> Leisure trip</li> <li> Solo traveler</li> <li> Lanai Room Double or Twin with Garden View</li> <li> Stayed 7 nights</li> <li> Submitted from a mobile device</li> </ul>\n<p>Nothing at all. An exquisite place</p>\n<p>The tranquility, ambience, architecture and design blending with the natural environment of tropical forest, beach and the ocean. It is visually stunning - aroiund every corner something different. It's not just a hotel it's an experience</p>",
+            "humanLanguage": "en",
+            "date": "Tue, 04 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          },
+          {
+            "tags": [
+              {
+                "count": 3,
+                "score": 0.42,
+                "label": "Hotel",
+                "uri": "http://dbpedia.org/resource/Hotel"
+              },
+              {
+                "count": 1,
+                "score": 0.36,
+                "label": "Ocean View (Norfolk)",
+                "uri": "http://dbpedia.org/resource/Ocean_View_(Norfolk)"
+              },
+              {
+                "count": 1,
+                "score": 0.28,
+                "label": "Indonesia",
+                "uri": "http://dbpedia.org/resource/Indonesia"
+              },
+              {
+                "count": 1,
+                "score": 0.24,
+                "label": "Midnight",
+                "uri": "http://dbpedia.org/resource/Midnight"
+              },
+              {
+                "count": 1,
+                "score": 0.17,
+                "label": "Point of sale",
+                "uri": "http://dbpedia.org/resource/Point_of_sale"
+              }
+            ],
+            "id": 14,
+            "author": "Tony Australia",
+            "text": "8.3  Very good \n  Leisure trip  Couple  Lanai Room Double or Twin with Partial Ocean View  Stayed 1 night \nOn arriving at hotel we found that there were much better value for money offers available in this hotel and in surrounding hotels and we were not even offered an upgrade. When we requested a very late checkout as we did not leave Indonesia until midnight the latest we could have was 4.00 pm.\nVery nice location",
+            "diffbotUri": "post|3|-263794386",
+            "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+            "html": "<p>8.3</p>\n<p>Very good</p>\n<ul> <li> Leisure trip</li> <li> Couple</li> <li> Lanai Room Double or Twin with Partial Ocean View</li> <li> Stayed 1 night</li> </ul>\n<p>On arriving at hotel we found that there were much better value for money offers available in this hotel and in surrounding hotels and we were not even offered an upgrade. When we requested a very late checkout as we did not leave Indonesia until midnight the latest we could have was 4.00 pm.</p>\n<p>Very nice location</p>",
+            "humanLanguage": "en",
+            "date": "Mon, 03 Aug 2015 00:00:00 GMT",
+            "type": "post"
+          }
+        ],
+        "confidence": 0.23330716069439547,
+        "numPages": 1,
+        "type": "discussion",
+        "participants": 14
+      },
+      "diffbotUri": "product|3|-1350793307",
+      "pageUrl": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&",
+      "images": [
+        {
+          "height": 460,
+          "diffbotUri": "image|3|-958103022",
+          "naturalHeight": 460,
+          "width": 840,
+          "primary": true,
+          "naturalWidth": 840,
+          "url": "http://r-ec.bstatic.com/images/hotel/840x460/477/47742273.jpg",
+          "xpath": "/html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/img[1]"
+        }
+      ],
+      "brand": "Bali",
+      "humanLanguage": "en",
+      "type": "product",
+      "breadcrumb": [
+        {
+          "name": "Home",
+          "link": "http://www.booking.com/index.html?aid=305316;sid=4c81f12502cc63d300a1f02f2f4f127f;dcid=1"
+        },
+        {
+          "name": "Indonesia",
+          "link": "http://www.booking.com/country/id.html?aid=305316;sid=4c81f12502cc63d300a1f02f2f4f127f;dcid=1"
+        },
+        {
+          "name": "Bali",
+          "link": "http://www.booking.com/region/id/bali.html?aid=305316;sid=4c81f12502cc63d300a1f02f2f4f127f;dcid=1"
+        },
+        {
+          "name": "Badung",
+          "link": "http://www.booking.com/region/id/badung.html?aid=305316;sid=4c81f12502cc63d300a1f02f2f4f127f;dcid=1"
+        },
+        {
+          "name": "Seminyak Hotels",
+          "link": "http://www.booking.com/city/id/seminyak.html?aid=305316;sid=4c81f12502cc63d300a1f02f2f4f127f;dcid=1"
+        }
+      ],
+      "availability": true
+    }
+  ],
+  "url": "http://www.booking.com/hotel/id/the-oberoi-bali.html?aid=305316;sid=8e17d71fb5d6fdaacc978ea1c7a78aab;dcid=1;checkin=2015-12-01;checkout=2015-12-05;dist=0;group_adults=1;group_children=0;no_rooms=1;room1=A;sb_price_type=total;srfid=9fc3a5563101311d1a909988020aa7d7c5bfd859X1;type=total;ucfs=1&"
+}
