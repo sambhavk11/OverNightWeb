@@ -8,9 +8,6 @@ def transContent(search_key):
     elif search_key=='Najib Razzak':
         fname='JSON/NajibRazak.json'
         print fname
-    elif search_key=='Melia Bali':
-        fname='JSON/MeliaBali.json'
-        print fname
     elif search_key=='Amari Boulevard':
         fname='JSON/AmariBoulevard.json'
         print fname
@@ -32,10 +29,8 @@ def transContent(search_key):
     elif search_key=='Robertson Quay':
         fname='JSON/RobertsonQuay.json'
         print fname
-
-
     else:
-        fname='dummy.json'
+        fname='dummy2.json'
         print("No match found")
 
     with open(fname, "r") as src:
