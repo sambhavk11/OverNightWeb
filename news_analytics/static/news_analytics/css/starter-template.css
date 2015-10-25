@@ -1,4 +1,4 @@
-body {
+﻿body {
   padding-top: 50px;
 }
 .starter-template {
@@ -8,3 +8,9 @@ body {
 .form_template{
     padding:40px 15px;
 }
+
+table {
+   border-collapse: separate;
+   border-spacing: 8px; 
+}
+
