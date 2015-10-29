@@ -95,111 +95,50 @@
 
 </div>
 
-
-
-
         <div id="newsData" >
-            {% for eachNews in data %}
+	
+            {% for eachHotel in data %}
                 <div>
 		<table>
-                    {% if eachNews.source.enriched.url.title %}
-                        <tr><strong>Title</strong>: {{eachNews.source.enriched.url.title}}</tr>
+		
+                    {% if eachHotel.HotelName%}			
+                        <tr><strong>Hotel Name</strong>: {{eachHotel.HotelName}}</tr>
+                        <br>
+			
+                    {% endif %}
+                    {% if eachHotel.City %}
+                        <tr><strong>City</strong>:{{eachHotel.City }}</tr>
                         <br>
                     {% endif %}
-                    {% if eachNews.source.enriched.url.url %}
-                        <tr><strong>Url</strong>:{{eachNews.source.enriched.url.url}}</tr>
+                     {% if eachHotel.Halal %}
+                        <tr><strong>Halal</strong>:Yes<tr>
                         <br>
-                    {% endif %}
-                    {% if eachNews.source.enriched.url.author %}
-                        <tr><strong>Author</strong>:{{eachNews.source.enriched.url.author}}<tr>
+			{% else %} 
+			<tr><strong>Halal</strong>:No<tr>
                         <br>
+
                     {% endif %}
-                    {% if eachNews.source.enriched.url.publicationDate.date %}
-                        <tr><strong>Publication Date</strong>:{{eachNews.source.enriched.url.publicationDate.date|slice:"8"}}</tr>
+		    {% if eachHotel.Gym %}
+                        <tr><strong>Gym</strong>:Yes<tr>
                         <br>
-                    {% endif %}
-                    {% if eachNews.source.enriched.url.entities %}
-                        <tr><strong>Entities</strong>:</tr>
-                            {% for eachEntity in eachNews.source.enriched.url.entities %}
-                                <ul>
-                                    <li>
-                                        {% if eachEntity.text %}
-                                            <strong>Text</strong>:{{eachEntity.text}}
-                                            <br>
-                                        {% endif%}
-                                        {% if eachEntity.type%}
-                                            <strong>Type</strong>:{{eachEntity.type}}
-                                            <br>
-                                        {% endif%}
-                                        {% if eachEntity.relevance %}
-                                            <strong>Relevance</strong>:{{eachEntity.relevance}}
-                                            <br>
-                                        {% endif%}
-                                        {% if eachEntity.sentiment.type %}
-                                            <strong>Sentiment</strong>:{{eachEntity.sentiment.type}}
-                                            <br>
-                                        {% endif %}
-                                    </li>
-                                </ul>
-                                <br>
-                            {% endfor %}
-
-                    {% endif %}
-
-
-                    {% if eachNews.source.enriched.url.docSentiment.type %}
-                        <strong>Document Sentiment</strong>:{{eachNews.source.enriched.url.docSentiment.type}}
+			{% else %} 
+			<tr><strong>Gym</strong>:No<tr>
                         <br>
-                    {% endif %}
-                    {% if eachNews.source.enriched.url.concepts %}
-                        <strong>Concepts</strong>:
-                            {% for eachConcept in eachNews.source.enriched.url.concepts %}
-                                <ul>
-                                    <li>
-                                        {% if eachConcept.text %}
-                                            <strong>Text</strong>:{{eachConcept.text}}
-                                            <br>
-                                        {% endif%}
-                                        {% if eachConcept.relevance %}
-                                            <strong>Relevance</strong>:{{eachConcept.relevance}}
-                                            <br>
-                                        {% endif%}
-                                    </li>
-                                </ul>
-                                <br>
-                            {% endfor %}
-                    {% endif %}
 
-
-                    {% if eachNews.source.enriched.url.taxonomy %}
-                        <strong>Taxonomy</strong>:
-                            {% for eachTax in eachNews.source.enriched.url.taxonomy %}
-                                <ul>
-                                    <li>
-                                        {% if eachTax.confident %}
-                                            <strong>Confident</strong>:{{eachTax.confident}}
-                                            <br>
-                                        {% endif%}
-                                        {% if eachTax.label %}
-                                            <strong>Label</strong>:{{eachTax.label}}
-                                            <br>
-                                        {% endif%}
-                                        {% if eachTax.score %}
-                                            <strong>Score</strong>:{{eachTax.score}}
-                                            <br>
-                                        {% endif%}
-                                    </li>
-                                </ul>
-                                <br>
-                            {% endfor %}
-                    {% endif %}
-                    <hr>
-                </div>
-                <br><br>
-            {% endfor %}
+                    {% endif %} 
+               
+		    {% if eachHotel.MoreThan2pax %}
+                        <tr><strong>More than Two Occupants </strong>: Yes<tr>
+                        <br>
+			{% else %} 
+			<tr><strong>More than Two Occupants </strong>: No<tr>
+                    {% endif %} 
+		
+               <hr>
+          		  {% endfor %}
+		
         </div>
     </div><!-- /.container -->
-
 
     <!-- Bootstrap core JavaScript
     ================================================== -->
