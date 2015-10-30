@@ -133,9 +133,16 @@
 			{% else %} 
 			<tr><strong>More than Two Occupants </strong>: No<tr>
                     {% endif %} 
-		
+
+		     {% if eachHotel.Under100 %}
+                        <tr><strong>Under 100$ </strong><tr>
+                        <br>
+		     {% else %} 
+			<tr><strong>Above 100$ </strong><tr>
+
+                     {% endif %} 
                <hr>
-          		  {% endfor %}
+          {% endfor %}
 		
         </div>
     </div><!-- /.container -->
