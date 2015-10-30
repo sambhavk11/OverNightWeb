@@ -9,6 +9,7 @@ def funcQueryBuilder(formParameter):
 		place=list[list.index("in")+1]
 		print place
 		finQuery=finQuery+" and city like "+"'"+ place+"%"+"'"
+
 	if "with" in list:
 		yesfaci=list[list.index("with")+1]
 		finQuery=finQuery+" and "+yesfaci +"=1"
