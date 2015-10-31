@@ -72,7 +72,7 @@
 		<table>
                     {% if eachHotel.HotelName %}
                          <tr><div class="pricing-table-header"><strong>{{eachHotel.HotelName}}</strong></tr></div>
-<tr><a href="#">
+<tr><a href={{eachHotel.Image}} >
 <img style="margin: 10px 40px 0px 0px" align="right" overflow= auto float= right height= 150px width=160px src={{eachHotel.Image}} /></a></tr>
                         <br>
                     {% endif %}
@@ -112,8 +112,17 @@
 			{% else %} 
 			<tr><strong><font color="#D24600">Above 100$</font> </strong>
                         <br>
+			   {% endif %}
+	<font color="red">
+      <script type="text/javascript">
+            var count = {{eachHotel.Rating}};
 
-                    {% endif %}
+
+            while (count!=0){
+               document.write("&hearts;");
+               count--;
+            }
+      </script></font>
 
 		<br>
 	<input type="Submit" id="submitButton" name="Run" value="Book Now" />
