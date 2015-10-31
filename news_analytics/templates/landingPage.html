@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 {% load staticfiles %}
-<html lang="en">
+
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -31,12 +31,12 @@
 		<script src="{% static 'news_analytics/js/init.js' %}"></script>
 </head>
 
-  <body id="top">
+  <div id="top">
 
  
 <header id="header" class="skel-layers-fixed">
 <!--<h1><a href="www.overnight.asia.com">OverNight</a></h1>-->
-<a href="http://www.overnight.asia/"><img align="left" height= 120 px width=130px src="{% static 'news_analytics/css/icon1.png' %}""/></a>
+<a href="http://www.overnight.asia/"><img align="left" height= 120 px width=130px src="{% static 'news_analytics/css/icon1.png' %}"/></a>
 <nav id="nav">
 <ul>
 <li><a href="#" class="button special">Sign In/Sign Up</a></li>
@@ -66,10 +66,14 @@
       </div>
 
 	<div >
-       <div id="newsData">
+
             {% for eachHotel in data %}
-                <div class="pricing-table">
-		<table>
+		   		{% if eachHotel.Message %}
+		   			    <p style="text-indent: 15em;"><font color="white" >{{eachHotel.Message }}</font></p>
+
+		   		{% else %}
+		          <div class="pricing-table">
+					  <table>
                     {% if eachHotel.HotelName %}
                          <tr><div class="pricing-table-header"><strong>{{eachHotel.HotelName}}</strong></tr></div>
 <tr><a href={{eachHotel.Image}} >
@@ -125,12 +129,14 @@
       </script></font>
 
 		<br>
-	<input type="Submit" id="submitButton" name="Run" value="Book Now" />
+			<input type="Submit" id="submitButton" name="Run" value="Book Now" />
+		   {% endif %}
+
             {% endfor %}
 
 
-        </div>
-    </div><!-- /.container -->
+
+    <!-- /.container -->
 </div>
 </div>
 
@@ -170,10 +176,10 @@
 		</div>
 		</div>
 		<ul class="icons">
-		<li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
-		<li><a href="#" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+		<li><a href="https://www.twitter.com/overnightasia" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+		<li><a href="https://www.facebook.com/overnightasia" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 		<li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li>
-		<li><a href="#" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+		<li><a href="https://www.linkedin.com/company/overnight-asia" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
 		<li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li>
 		</ul>
 		

@@ -14,7 +14,10 @@ def gethotels(val,json_str = False ):
     print "inside Fetch2Json\n\n"
     print val
 
-    rows = db.execute(qb.funcQueryBuilder(val)).fetchall()
+    try :
+        rows = db.execute(qb.funcQueryBuilder(val)).fetchall()
+    except:
+        return json.dumps([{'Message':'Sorry!! Didnt get that!! why dont you try something else like ,hotels in Bali with Halal or hotels in singpore without gym'}])
 
     conn.commit()
     conn.close()
