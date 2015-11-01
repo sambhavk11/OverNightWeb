@@ -1,6 +1,8 @@
+import StringParser as strpar
 
 def funcQueryBuilder(formParameter):
-	queryStr=formParameter
+	queryStr=strpar.parseOfString(formParameter.lower())
+	print queryStr
 	finQuery="Select * from Hotels where HotelId in (select hotelid from Hotels)"
 
 	list=queryStr.split(" ")
@@ -20,11 +22,7 @@ def funcQueryBuilder(formParameter):
 		finQuery=finQuery+" and "+nofaci +"=0"
 		print nofaci
 
-
-
-
-	#finQuery="Select * from Hotels where city like "+"'"+ place+"%'"+"and "+yesfaci +"=1"+ " and "+nofaci+"=0"
 	print finQuery
 	return finQuery
- 
+
 
