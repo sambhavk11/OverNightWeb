@@ -9,4 +9,6 @@ urlpatterns = patterns('',
     url(r'^admin/', include(admin.site.urls)),
     url(r'^$', 'news_analytics.views.landing_page'),
     url(r'^get_news/', 'news_analytics.views.get_content'),
+   
+
 )
